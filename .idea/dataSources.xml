@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="kakao_sender@park-rds.c50keukow1n9.ap-northeast-2.rds.amazonaws.com" uuid="f708ac66-db7d-4c32-896b-3957fb3790e8">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://park-rds.c50keukow1n9.ap-northeast-2.rds.amazonaws.com:3306/kakao_sender?useUnicode=true&amp;characterEncoding=utf8&amp;serverTimezone=Asia/Seoul</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
